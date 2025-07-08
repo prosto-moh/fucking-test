@@ -1,2 +1,2 @@
-print('Hellow world')
-print('Hellow world')
+for i in range(100):
+    print('Пока Санбой спал его вещи постирали')
